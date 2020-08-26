@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
 
-void feauture1();
-void feauture2();
-void feauture3();
-void feauture4();
-void feauture5();
+void feature1();
+void feature2();
+void feature3();
+void feature4();
+void feature5();
