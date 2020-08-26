@@ -1,9 +1,7 @@
 #include "header.h"
-using namespace std;
 
 int main()
 {
-
 
   cout << "Welcome to Agile0" << endl;
   cout << "Development team:" << endl;
@@ -12,8 +10,7 @@ int main()
   feature3();
   feature4();
   feature5();
-  
-  
+   
   return 0;
 
 }
