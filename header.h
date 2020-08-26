@@ -2,8 +2,8 @@
 #include <iostream>
 using namespace std;
 
-feature1();
-feature2();
-feature3();
-feature4();
-feature5();
+void feature1();
+void feature2();
+void feature3();
+void feature4();
+void feature5();
